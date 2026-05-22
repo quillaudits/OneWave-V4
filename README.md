@@ -1,15 +1,14 @@
 # OneWave-V4
-Scope : OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Staking.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Treasury.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Migration.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/PresaleVesting.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Presale.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Governance.sol
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/RewardDistributor.sol
-
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/TokenLocker.sol
-
-OneWave SmartContracts/onewave-bsc-contracts-main/contracts/WaveToken.sol
+Scope : 
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Staking.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Treasury.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Migration.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/PresaleVesting.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Presale.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/Governance.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/RewardDistributor.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/TokenLocker.sol
+* OneWave SmartContracts/onewave-bsc-contracts-main/contracts/WaveToken.sol
 
 ## Important Links
 
